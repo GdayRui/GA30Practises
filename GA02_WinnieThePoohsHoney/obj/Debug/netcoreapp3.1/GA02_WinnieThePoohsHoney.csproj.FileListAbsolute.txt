@@ -1,0 +1,12 @@
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/bin/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.deps.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/bin/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.runtimeconfig.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/bin/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.runtimeconfig.dev.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/bin/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.dll
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/bin/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.pdb
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.AssemblyInfoInputs.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.AssemblyInfo.cs
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.csproj.CoreCompileInputs.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.dll
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.pdb
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.genruntimeconfig.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA02_WinnieThePoohsHoney/obj/Debug/netcoreapp3.1/GA02_WinnieThePoohsHoney.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/bin/Debug/netcoreapp3.1/GA03_Allergies.deps.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/bin/Debug/netcoreapp3.1/GA03_Allergies.runtimeconfig.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/bin/Debug/netcoreapp3.1/GA03_Allergies.runtimeconfig.dev.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/bin/Debug/netcoreapp3.1/GA03_Allergies.dll
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/bin/Debug/netcoreapp3.1/GA03_Allergies.pdb
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/Debug/netcoreapp3.1/GA03_Allergies.AssemblyInfoInputs.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/Debug/netcoreapp3.1/GA03_Allergies.AssemblyInfo.cs
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/Debug/netcoreapp3.1/GA03_Allergies.csproj.CoreCompileInputs.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/Debug/netcoreapp3.1/GA03_Allergies.dll
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/Debug/netcoreapp3.1/GA03_Allergies.pdb
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/Debug/netcoreapp3.1/GA03_Allergies.genruntimeconfig.cache

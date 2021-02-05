@@ -1,0 +1,11 @@
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/bin/Debug/netcoreapp3.1/GA01_RomanNumbers.deps.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/bin/Debug/netcoreapp3.1/GA01_RomanNumbers.runtimeconfig.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/bin/Debug/netcoreapp3.1/GA01_RomanNumbers.runtimeconfig.dev.json
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/bin/Debug/netcoreapp3.1/GA01_RomanNumbers.dll
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/bin/Debug/netcoreapp3.1/GA01_RomanNumbers.pdb
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/Debug/netcoreapp3.1/GA01_RomanNumbers.AssemblyInfoInputs.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/Debug/netcoreapp3.1/GA01_RomanNumbers.AssemblyInfo.cs
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/Debug/netcoreapp3.1/GA01_RomanNumbers.csproj.CoreCompileInputs.cache
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/Debug/netcoreapp3.1/GA01_RomanNumbers.dll
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/Debug/netcoreapp3.1/GA01_RomanNumbers.pdb
+/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/Debug/netcoreapp3.1/GA01_RomanNumbers.genruntimeconfig.cache
