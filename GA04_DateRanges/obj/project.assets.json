@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/GA01_RomanNumbers.csproj",
-      "projectName": "GA01_RomanNumbers",
-      "projectPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/GA01_RomanNumbers.csproj",
+      "projectUniqueName": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/GA04_DateRanges.csproj",
+      "projectName": "GA04_DateRanges",
+      "projectPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/GA04_DateRanges.csproj",
       "packagesPath": "/Users/ruili/.nuget/packages/",
-      "outputPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/obj/",
+      "outputPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

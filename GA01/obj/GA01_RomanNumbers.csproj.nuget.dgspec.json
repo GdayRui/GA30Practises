@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/GA01_RomanNumbers.csproj": {}
+    "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/GA01_RomanNumbers.csproj": {}
   },
   "projects": {
-    "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/GA01_RomanNumbers.csproj": {
+    "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/GA01_RomanNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/GA01_RomanNumbers.csproj",
+        "projectUniqueName": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/GA01_RomanNumbers.csproj",
         "projectName": "GA01_RomanNumbers",
-        "projectPath": "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/GA01_RomanNumbers.csproj",
+        "projectPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/GA01_RomanNumbers.csproj",
         "packagesPath": "/Users/ruili/.nuget/packages/",
-        "outputPath": "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA01/obj/",
+        "outputPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA01/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

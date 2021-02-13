@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GA04_DateRanges/1.0.0": {
+        "runtime": {
+          "GA04_DateRanges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GA04_DateRanges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

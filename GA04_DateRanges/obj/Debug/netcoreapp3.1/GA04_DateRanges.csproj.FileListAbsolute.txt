@@ -1,0 +1,12 @@
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/bin/Debug/netcoreapp3.1/GA04_DateRanges.deps.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/bin/Debug/netcoreapp3.1/GA04_DateRanges.runtimeconfig.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/bin/Debug/netcoreapp3.1/GA04_DateRanges.runtimeconfig.dev.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/bin/Debug/netcoreapp3.1/GA04_DateRanges.dll
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/bin/Debug/netcoreapp3.1/GA04_DateRanges.pdb
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.csprojAssemblyReference.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.AssemblyInfoInputs.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.AssemblyInfo.cs
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.csproj.CoreCompileInputs.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.dll
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.pdb
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA04_DateRanges/obj/Debug/netcoreapp3.1/GA04_DateRanges.genruntimeconfig.cache

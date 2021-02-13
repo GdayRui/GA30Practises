@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{97EC4B36-5F34-444C-B9E8-5CD39606EA0F}|Default">
+  <MonoDevelop.Ide.ItemProperties.GA04__DateRanges FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GA04_DateRanges/Program.cs">
+    <Files>
+      <File FileName="GA04_DateRanges/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GA30Questions" expanded="True">
+            <Node name="GA01_RomanNumbers" selected="True" />
+            <Node name="GA04_DateRanges" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>difference</Value>
+          <Value>allergies</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GA01__RomanNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

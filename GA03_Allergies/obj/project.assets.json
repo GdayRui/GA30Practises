@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/GA03_Allergies.csproj",
+      "projectUniqueName": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA03_Allergies/GA03_Allergies.csproj",
       "projectName": "GA03_Allergies",
-      "projectPath": "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/GA03_Allergies.csproj",
+      "projectPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA03_Allergies/GA03_Allergies.csproj",
       "packagesPath": "/Users/ruili/.nuget/packages/",
-      "outputPath": "/Users/ruili/Desktop/GA30Questions/GA30Questions/GA03_Allergies/obj/",
+      "outputPath": "/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA03_Allergies/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
