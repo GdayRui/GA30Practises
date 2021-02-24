@@ -2,6 +2,13 @@
 
 namespace GA04_DateRanges
 {
+
+    public class MyObj
+    {
+        public int id;
+        public string name;
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -15,6 +22,71 @@ namespace GA04_DateRanges
             MakeFriendlyDates(new string[] { "2016-07-01", "2016-07-31" });
             MakeFriendlyDates(new string[] { "2016-07-31", "2021-02-12" });
             MakeFriendlyDates(new string[] { "2021-02-12", "2021-02-13" });
+
+            //testFunc();
+        }
+
+        static void testFunc()
+        {
+            int a = 1;
+            changeVal(a);
+            Console.WriteLine(a);
+
+
+            MyObj myObj = new MyObj()
+            {
+                id = 3,
+                name = "James"
+            };
+
+
+            changeObjVal2(myObj);
+            Console.WriteLine(myObj.name);
+
+        }
+
+        static void changeVal(int num)
+        {
+            num += 9;
+        }
+
+        static void changeObjVal(MyObj data)
+        {
+            data.id = 99;
+            data.name = "Oliver";
+        }
+
+        static void changeObjVal2(MyObj data)
+        {
+            data = new MyObj()
+            {
+                id = 99,
+                name = "Oliver"
+            };
+        }
+
+        static string ConvertDay(int day, string friendlyDay)
+        {
+            switch (day)
+            {
+                case 1:
+                case 21:
+                case 31:
+                    friendlyDay = day.ToString() + "st";
+                    break;
+                case 2:
+                case 22:
+                    friendlyDay = day.ToString() + "nd";
+                    break;
+                case 3:
+                case 23:
+                    friendlyDay = day.ToString() + "rd";
+                    break;
+                default:
+                    friendlyDay = day.ToString() + "th";
+                    break;
+            }
+            return friendlyDay;
         }
 
         static string[] MakeFriendlyDates(string[] givenDates)
@@ -55,25 +127,26 @@ namespace GA04_DateRanges
 
             // beginning day
             int day = int.Parse(beginningDate[2]);
-            switch (day)
-            {
-                case 1:
-                case 21:
-                case 31:
-                    friendlyDayOfBeginning = day.ToString() + "st";
-                    break;
-                case 2:
-                case 22:
-                    friendlyDayOfBeginning = day.ToString() + "nd";
-                    break;
-                case 3:
-                case 23:
-                    friendlyDayOfBeginning = day.ToString() + "rd";
-                    break;
-                default:
-                    friendlyDayOfBeginning = day.ToString() + "th";
-                    break;
-            }
+            friendlyDayOfBeginning = ConvertDay(day, friendlyDayOfBeginning);
+            //switch (day)
+            //{
+            //    case 1:
+            //    case 21:
+            //    case 31:
+            //        friendlyDayOfBeginning = day.ToString() + "st";
+            //        break;
+            //    case 2:
+            //    case 22:
+            //        friendlyDayOfBeginning = day.ToString() + "nd";
+            //        break;
+            //    case 3:
+            //    case 23:
+            //        friendlyDayOfBeginning = day.ToString() + "rd";
+            //        break;
+            //    default:
+            //        friendlyDayOfBeginning = day.ToString() + "th";
+            //        break;
+            //}
 
             string beginningFriendlyDate = friendlyMonthOfBeginning + friendlyDayOfBeginning + friendlyYearOfBeginning;
 
@@ -90,25 +163,26 @@ namespace GA04_DateRanges
 
             // end day
             int dayOfEnd = int.Parse(endDate[2]);
-            switch (dayOfEnd)
-            {
-                case 1:
-                case 21:
-                case 31:
-                    friendlyDayOfEnd = dayOfEnd.ToString() + "st";
-                    break;
-                case 2:
-                case 22:
-                    friendlyDayOfEnd = dayOfEnd.ToString() + "nd";
-                    break;
-                case 3:
-                case 23:
-                    friendlyDayOfEnd = dayOfEnd.ToString() + "rd";
-                    break;
-                default:
-                    friendlyDayOfEnd = dayOfEnd.ToString() + "th";
-                    break;
-            }
+            friendlyDayOfEnd = ConvertDay(dayOfEnd, friendlyDayOfEnd);
+            //switch (dayOfEnd)
+            //{
+            //    case 1:
+            //    case 21:
+            //    case 31:
+            //        friendlyDayOfEnd = dayOfEnd.ToString() + "st";
+            //        break;
+            //    case 2:
+            //    case 22:
+            //        friendlyDayOfEnd = dayOfEnd.ToString() + "nd";
+            //        break;
+            //    case 3:
+            //    case 23:
+            //        friendlyDayOfEnd = dayOfEnd.ToString() + "rd";
+            //        break;
+            //    default:
+            //        friendlyDayOfEnd = dayOfEnd.ToString() + "th";
+            //        break;
+            //}
 
             string endFrindlyDate = friendlyMonthOfEnd + friendlyDayOfEnd + friendlyYearOfEnd;
 
