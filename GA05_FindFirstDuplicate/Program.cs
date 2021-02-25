@@ -1,17 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GA05_FindFirstDuplicate
 {
     class Program
     {
-        private static int duplicateNum;
+        //private static int[] duplicateNums;
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
             FindFirstDuplicate(new int[] { 6, 7, 4, 5, 3, 5, 1, 7 });
-            Console.WriteLine(duplicateNum);
+            FindFirstDuplicate(new int[] { 6 });
+            FindFirstDuplicate(new int[] { 6, 7, 4, 5, 3 });
+            
         }
 
         // given a list of unordered numbers with at least duplicate number
@@ -22,27 +25,41 @@ namespace GA05_FindFirstDuplicate
 
         // [6,7,4,5,3,5,1] //=> 5
 
-        static int FindFirstDuplicate(int[] givenNums)
+        static List<int> FindFirstDuplicate(int[] givenNums)
         {
+            List<int> duplicateNums = new List<int>();
 
-            int arrLength = givenNums.Length;
+            if (givenNums.Length <= 1)
+                Console.WriteLine("Please give a number list that includes more than 2 numbers.");
 
-            bool isFound = false;
-            for (int i=0; i<givenNums.Length && !isFound; i++)
+            else
             {
-                for (int j=i+1; j<givenNums.Length; j++)
+                // Set a flag to break the loop once find the first duplicate
+                bool isFound = false;
+                for (int i = 0; i < givenNums.Length && !isFound; i++)
                 {
-                    int firstNum = givenNums[i];
-                    int secondNum = givenNums[j];
-                    if (firstNum == secondNum)
+                    for (int j = i + 1; j < givenNums.Length; j++)
                     {
-                        duplicateNum = givenNums[i];
-                        isFound = true;
+                        int firstNum = givenNums[i];
+                        int secondNum = givenNums[j];
+                        if (firstNum == secondNum)
+                        {
+                            duplicateNums.Add(givenNums[i]);
+                            duplicateNums.Add(givenNums[j]);
+                            isFound = true;
+                        }
                     }
                 }
+
+                if (duplicateNums.Count == 2)
+                    Console.WriteLine("The duplicate numbers are ['{0}', '{1}']", duplicateNums[0], duplicateNums[1]);
+                else
+                    Console.WriteLine("There are not duplicate numbers in this list.");
+
             }
 
-            return duplicateNum;
+            return duplicateNums;
+
         }
     }
 }
