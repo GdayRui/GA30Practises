@@ -1,0 +1,11 @@
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/bin/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.deps.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/bin/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.runtimeconfig.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/bin/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.runtimeconfig.dev.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/bin/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.dll
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/bin/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.pdb
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/obj/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.AssemblyInfoInputs.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/obj/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.AssemblyInfo.cs
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/obj/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.csproj.CoreCompileInputs.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/obj/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.dll
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/obj/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.pdb
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA05_FindFirstDuplicate/obj/Debug/netcoreapp3.1/GA05_FindFirstDuplicate.genruntimeconfig.cache
