@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GA06_AlternatingSplit/1.0.0": {
+        "runtime": {
+          "GA06_AlternatingSplit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GA06_AlternatingSplit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA04_DateRanges", "GA04_Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA05_FindFirstDuplicate", "GA05_FindFirstDuplicate\GA05_FindFirstDuplicate.csproj", "{17CFF433-14AE-439C-B73E-6E1C5E602FDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA06_AlternatingSplit", "GA06_AlternatingSplit\GA06_AlternatingSplit.csproj", "{A37E2B08-F0EB-4D31-8CD3-B4F1264C329B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,5 +39,9 @@ Global
 		{17CFF433-14AE-439C-B73E-6E1C5E602FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17CFF433-14AE-439C-B73E-6E1C5E602FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17CFF433-14AE-439C-B73E-6E1C5E602FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37E2B08-F0EB-4D31-8CD3-B4F1264C329B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37E2B08-F0EB-4D31-8CD3-B4F1264C329B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37E2B08-F0EB-4D31-8CD3-B4F1264C329B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37E2B08-F0EB-4D31-8CD3-B4F1264C329B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,19 +1,16 @@
-﻿<Properties StartupConfiguration="{17CFF433-14AE-439C-B73E-6E1C5E602FDF}|Default">
+﻿<Properties StartupConfiguration="{A37E2B08-F0EB-4D31-8CD3-B4F1264C329B}|Default">
   <MonoDevelop.Ide.ItemProperties.GA04__DateRanges PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GA05_FindFirstDuplicate/list.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GA06_AlternatingSplit/Program.cs">
     <Files>
       <File FileName="GA04_DateRanges/Program.cs" Line="151" Column="67" />
-      <File FileName="GA05_FindFirstDuplicate/Program.cs" Line="30" Column="22" />
-      <File FileName="GA05_FindFirstDuplicate/list.cs" Line="1" Column="1" />
+      <File FileName="GA05_FindFirstDuplicate/Program.cs" Line="16" Column="61" />
+      <File FileName="GA06_AlternatingSplit/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GA30Questions" expanded="True">
-            <Node name="GA04_DateRanges" expanded="True" />
-            <Node name="GA05_FindFirstDuplicate" expanded="True">
-              <Node name="list.cs" selected="True" />
-            </Node>
+            <Node name="GA06_AlternatingSplit" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -25,6 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GA06__AlternatingSplit FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.GA05__FindFirstDuplicate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

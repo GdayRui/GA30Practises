@@ -1,0 +1,11 @@
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/bin/Debug/netcoreapp3.1/GA06_AlternatingSplit.deps.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/bin/Debug/netcoreapp3.1/GA06_AlternatingSplit.runtimeconfig.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/bin/Debug/netcoreapp3.1/GA06_AlternatingSplit.runtimeconfig.dev.json
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/bin/Debug/netcoreapp3.1/GA06_AlternatingSplit.dll
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/bin/Debug/netcoreapp3.1/GA06_AlternatingSplit.pdb
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/obj/Debug/netcoreapp3.1/GA06_AlternatingSplit.AssemblyInfoInputs.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/obj/Debug/netcoreapp3.1/GA06_AlternatingSplit.AssemblyInfo.cs
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/obj/Debug/netcoreapp3.1/GA06_AlternatingSplit.csproj.CoreCompileInputs.cache
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/obj/Debug/netcoreapp3.1/GA06_AlternatingSplit.dll
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/obj/Debug/netcoreapp3.1/GA06_AlternatingSplit.pdb
+/Users/ruili/Desktop/Repositories/GA30/GA30Practises/GA06_AlternatingSplit/obj/Debug/netcoreapp3.1/GA06_AlternatingSplit.genruntimeconfig.cache
